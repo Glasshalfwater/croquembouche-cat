@@ -1,0 +1,32 @@
+img {
+  display: block;
+  width: 600;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+h1 {
+  color: darkorange;
+  font-size: 20px;
+}
+
+.text {
+  margin-inline: auto;
+  text-align: center;
+}
+
+.lkjhgf {text-align: center;
+  color: #75aaf0;
+}
+
+p {
+  color: #2f6f57;
+}
+
+#title {
+  font-size: 60px;
+}
+
+body {
+  background-color: #abbcd3;
+}
